@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="a.Soma"/>
+    <fullyQualifiedTypeName name="modelo.Divisao"/>
+    <fullyQualifiedTypeName name="modelo.IOperacao"/>
+    <fullyQualifiedTypeName name="modelo.Multiplicacao"/>
+    <fullyQualifiedTypeName name="modelo.Operacoes"/>
+    <fullyQualifiedTypeName name="modelo.Soma"/>
+    <fullyQualifiedTypeName name="modelo.Subtracao"/>
+    <fullyQualifiedTypeName name="Vizualizacao.EntradaSaida"/>
+    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+    <fullyQualifiedTypeName name="Controle.Controladora"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+</qualifiedTypeNameHistroy>

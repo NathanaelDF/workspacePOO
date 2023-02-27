@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;a&apos; to &apos;Calculadora V7/src&apos;&#x0D;&#x0A;- Original project: &apos;Calculadora V6&apos;&#x0D;&#x0A;- Destination element: &apos;Calculadora V7/src&apos;&#x0D;&#x0A;- Original element: &apos;Calculadora V6/src/a&apos;" description="Copy package" destination="=Calculadora V7/src" element1="/src&lt;a" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1664405033007" version="1.0"/>
+</session>

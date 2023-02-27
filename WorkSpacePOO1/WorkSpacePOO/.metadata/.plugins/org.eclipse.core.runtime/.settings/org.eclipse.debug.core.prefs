@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+prefWatchExpressions=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<watchExpressions>\r\n    <expression enabled\="true" text\="&\#9;&\#9;setListaDePortas();"/>\r\n    <expression enabled\="true" text\="descricao"/>\r\n    <expression enabled\="true" text\="cor"/>\r\n    <expression enabled\="true" text\="listaDePortas"/>\r\n    <expression enabled\="true" text\="listaDeJanelas"/>\r\n    <expression enabled\="true" text\="getDescricao"/>\r\n</watchExpressions>\r\n
